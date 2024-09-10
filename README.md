@@ -6,6 +6,7 @@
 - [jq](https://stedolan.github.io/jq/)
 - [just](https://github.com/casey/just)
 - [sd](https://github.com/chmln/sd)
+- [protoc_plugin](https://pub.dev/packages/protoc_plugin)
 
 ## Build Process
 The code generation process consists of 3 steps;
